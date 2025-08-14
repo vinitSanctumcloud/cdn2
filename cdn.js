@@ -81,7 +81,7 @@
       bottom: calc(-6px + ${embedHeight});
       right: 8px;
       background: #000;
-      color: #000;
+      color: #fff;
       border: none;
       border-radius: 50%;
       width: 32px;
